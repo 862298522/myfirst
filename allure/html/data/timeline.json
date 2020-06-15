@@ -1,0 +1,39 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-HPF3STDS",
+    "children" : [ {
+      "name" : "10268-MainThread",
+      "children" : [ {
+        "name" : "test_peple1",
+        "uid" : "6163f78e184eb5f8",
+        "parentUid" : "2eeb836118e8e4c05b477e550a9b24a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592014132935,
+          "stop" : 1592014132936,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_peple2",
+        "uid" : "886f47ffab1e9a9",
+        "parentUid" : "2eeb836118e8e4c05b477e550a9b24a6",
+        "status" : "passed",
+        "time" : {
+          "start" : 1592014132960,
+          "stop" : 1592014132961,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "2eeb836118e8e4c05b477e550a9b24a6"
+    } ],
+    "uid" : "8a213fac6857c0f51678c585fc18f654"
+  } ]
+}

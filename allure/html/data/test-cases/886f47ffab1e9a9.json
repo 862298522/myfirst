@@ -1,0 +1,56 @@
+{
+  "uid" : "886f47ffab1e9a9",
+  "name" : "test_peple2",
+  "fullName" : "scripts.test_mysecond.TestPeple#test_peple2",
+  "historyId" : "9acdd97a0f752e716a55921b1757a971",
+  "time" : {
+    "start" : 1592014132960,
+    "stop" : 1592014132961,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_mysecond"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPeple"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-HPF3STDS"
+  }, {
+    "name" : "thread",
+    "value" : "10268-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_mysecond"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "886f47ffab1e9a9.json",
+  "parameterValues" : [ ]
+}

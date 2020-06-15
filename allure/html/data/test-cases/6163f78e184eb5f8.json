@@ -1,0 +1,90 @@
+{
+  "uid" : "6163f78e184eb5f8",
+  "name" : "test_peple1",
+  "fullName" : "scripts.test_mysecond.TestPeple#test_peple1",
+  "historyId" : "e6ca87b09fd1b8e17095662cf7c2030f",
+  "time" : {
+    "start" : 1592014132935,
+    "stop" : 1592014132936,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "注册",
+      "time" : {
+        "start" : 1592014132935,
+        "stop" : 1592014132936,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "23540621c9383dfc",
+        "name" : "输入了：1，无",
+        "source" : "23540621c9383dfc.attach",
+        "type" : "text/plain",
+        "size" : 15
+      } ],
+      "parameters" : [ ],
+      "hasContent" : true,
+      "stepsCount" : 0,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 1,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "severity",
+    "value" : "critical"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_mysecond"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestPeple"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-HPF3STDS"
+  }, {
+    "name" : "thread",
+    "value" : "10268-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_mysecond"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "critical",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "6163f78e184eb5f8.json",
+  "parameterValues" : [ ]
+}
